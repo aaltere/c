@@ -12,6 +12,8 @@ int main()
     upper = 300;        // upper limit
     step = 20;          // step size
 
+    printf("Temperature conversion table\n");
+
     fahr = lower;
     while (fahr <= upper)
     {
